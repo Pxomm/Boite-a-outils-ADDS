@@ -1,0 +1,3 @@
+Prenom;Nom;OU;Login;Groupes;Fonction;Service;Description;Modele
+Jeanne;Dupont;OU=Comptabilite,OU=Utilisateurs,DC=corp,DC=local;;GG_Compta,GG_Imprimantes_Etage2;Comptable;Comptabilité;;
+Rémi;Faure;OU=Informatique,OU=Utilisateurs,DC=corp,DC=local;r.faure;;Technicien support;Informatique;Arrivée du 01/12/2026;m.martin

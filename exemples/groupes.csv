@@ -1,0 +1,4 @@
+Nom;OU;Etendue;Type;Description
+GG_Compta;OU=Groupes,DC=corp,DC=local;Global;Security;Service comptabilité
+DL_Partage_Compta_RW;OU=Groupes,DC=corp,DC=local;DomainLocal;Security;Modification sur le partage Compta
+LD_Direction;OU=Groupes,DC=corp,DC=local;Universal;Distribution;Liste de diffusion de la direction

@@ -1,0 +1,4 @@
+Motif;OU
+PC-COMPTA-*;OU=Comptabilite,OU=Postes,DC=corp,DC=local
+PORT-*;OU=Portables,OU=Postes,DC=corp,DC=local
+SRV-*;OU=Serveurs,DC=corp,DC=local

@@ -1,0 +1,9 @@
+Chemin;Description
+Societe/Utilisateurs/Comptabilite;Service comptabilité
+Societe/Utilisateurs/Informatique;Service informatique
+Societe/Postes/Fixes;
+Societe/Postes/Portables;
+Societe/Serveurs;
+Societe/Groupes;
+Societe/Comptes desactives;Comptes des collaborateurs partis
+Societe/Quarantaine;Ordinateurs inactifs avant suppression

@@ -1,0 +1,15 @@
+# Normalisation des fins de ligne
+* text=auto
+
+# Scripts PowerShell : UTF-8 avec BOM (requis par Windows PowerShell 5.1), CRLF à l'extraction
+*.ps1  text eol=crlf
+*.psm1 text eol=crlf
+*.psd1 text eol=crlf
+
+# Les fichiers de commandes doivent rester en CRLF même dans une archive ZIP du dépôt :
+# ils sont stockés tels quels, sans conversion
+*.bat  -text
+*.cmd  -text
+
+*.md   text eol=lf
+*.yml  text eol=lf
