@@ -10,8 +10,8 @@ Chaque script fait une seule chose, porte son aide intégrée et renvoie des obj
 
 ```powershell
 # 1. Récupérer le dépôt (les scripts dépendent du dossier lib/, garder l'arborescence)
-git clone https://github.com/Pxomm/Boite-a-outils-ADD.git
-cd Boite-a-outils-ADD
+git clone https://github.com/Pxomm/WINDOWS_SERVER-Scripts-Boite-a-outils-ADDS.git
+cd WINDOWS_SERVER-Scripts-Boite-a-outils-ADDS
 
 # 2. Vérifier les outils d'administration (console élevée), puis les installer si besoin
 .\scripts\08-maintenance\Install-ADManagementTool.ps1
